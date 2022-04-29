@@ -1,0 +1,86 @@
+{
+    "ofertas": [
+        {
+            "name": "Limon con semilla",
+            "price": 26.82,
+            "price-before": 39.9,
+            "discount": 32,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243805/la-tiendita/ofertas/limon_jd4lhk.png",
+            "id": 1
+        },
+        {
+            "name": "Tomate",
+            "price": 21.79,
+            "price-before": 32.9,
+            "discount": 32,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243805/la-tiendita/ofertas/tomate_tsfmvh.png",
+            "id": 2
+        },
+        {
+            "name": "Aguacate Hass",
+            "price": 56.8,
+            "price-before": 69.9,
+            "discount": 18,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243805/la-tiendita/ofertas/aguacate_thfexz.png",
+            "id": 3
+        },
+        {
+            "name": "Nopal limpio",
+            "price": 25.8,
+            "price-before": 29.9,
+            "discount": 13,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243805/la-tiendita/ofertas/nopal_qdnklp.png",
+            "id": 4
+        },
+        {
+            "name": "Tomate verde sin cascara",
+            "price": 22.89,
+            "price-before": 24.9,
+            "discount": 8,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243805/la-tiendita/ofertas/tomate-verde_wzjle6.png",
+            "id": 5
+        }
+    ],
+    "populares": [
+        {
+            "name": "San Rafael pechuga de pavo",
+            "price": 62.5,
+            "weight": "250 g",
+            "price-weight": "0.25/gr",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243806/la-tiendita/populares/pechuga_gy0cpo.png",
+            "id": 1
+        },
+        {
+            "name": "Bimbo Pan Blanco Grande",
+            "price": 38.9,
+            "weight": "680 g",
+            "price-weight": "0.6/gr",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243805/la-tiendita/populares/bimbo_rjjp8r.png",
+            "id": 2
+        },
+        {
+            "name": "Mc Cormick Mayonesa",
+            "price": 48.5,
+            "weight": "507 g",
+            "price-weight": "0.1/gr",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243806/la-tiendita/populares/mayonesa_q61mkb.png",
+            "id": 3
+        },
+        {
+            "name": "Colgate Pasta Dental Triple Familiar 2 U",
+            "price": 35.5,
+            "weight": "125 ml",
+            "price-weight": "0.28/ml",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243806/la-tiendita/populares/colgate_kriqwx.png",
+            "id": 4
+        },
+        {
+            "name": "Huevos San Juan",
+            "price": 37.5,
+            "weight": "18 Und",
+            "price-weight": "2.08/u",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1651243806/la-tiendita/populares/huevos_ajqz2d.png",
+            "id": 5
+        }
+    ]
+}
